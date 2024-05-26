@@ -24,4 +24,4 @@
 <br>
 
 - 모던 자바스크립트 Deep Dive
-  - [14장. 전역 변수의 문제점/ 15장. let, const 키워드와 블록 레벨 스코프](https://github.com/Yooniverse42/TIL/blob/main/JSDD/chapter-14-15.md)
+  - [14장. 전역 변수의 문제점/ 15장. let, const 키워드와 블록 레벨 스코프](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-14-15.md)
