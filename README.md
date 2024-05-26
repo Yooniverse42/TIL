@@ -14,3 +14,14 @@
 - [반응형 웸(Flex, min, maxm clamp)](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240513.md)
 - [유연한 미디어 사용(figure, grid)](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240514.md)
 - [grid를 이용한 RWD와 transition, translate, mask](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240516.md)
+
+<br>
+
+## JavaScript
+
+- [240528]()
+
+<br>
+
+- 모던 자바스크립트 Deep Dive
+  - [14장. 전역 변수의 문제점/ 15장. let, const 키워드와 블록 레벨 스코프](https://github.com/Yooniverse42/TIL/blob/main/JSDD/chapter-14-15.md)
