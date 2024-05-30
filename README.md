@@ -20,6 +20,7 @@
 ## JavaScript
 
 - [엄격 모드, Legacy var, 변수 호이스팅](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240529.md)
+- [Data Types 8가지](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240530.md)
 
 <br>
 
