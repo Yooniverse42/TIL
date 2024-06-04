@@ -28,8 +28,9 @@
 - [What is JavaScript?](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240528.md)
 - [엄격 모드, Legacy var, 변수 호이스팅](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240529.md)
 - [Data Types 8가지](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240530.md)
-- [240531](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240531.md)
+- [산술 연산자, 조건문](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240531.md)
 - [switch문, 반복문(for, while)](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240603.md)
+- [반복문(for~in,of)과 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240604.md)
 
 <br>
 
