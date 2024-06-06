@@ -31,6 +31,7 @@
 - [산술 연산자, 조건문](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240531.md)
 - [switch문, 반복문(for, while)](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240603.md)
 - [반복문(for~in,of)과 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240604.md)
+- [함수 표현식과 콜백 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240605.md)
 
 <br>
 
