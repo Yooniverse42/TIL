@@ -32,6 +32,8 @@
 - [switch문, 반복문(for, while)](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240603.md)
 - [반복문(for~in,of)과 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240604.md)
 - [함수 표현식과 콜백 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240605.md)
+- [화살표 함수와 재귀 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240607.md)
+
 
 <br>
 
@@ -39,4 +41,6 @@
   - [14장. 전역 변수의 문제점/ 15장. let, const 키워드와 블록 레벨 스코프](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-14-15.md)
   - [16장. 프로퍼티 어트리뷰트/ 17장. 생성자 함수에 의한 객체 생성](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-16-17.md)
   - [18장. 함수와 일급 객체](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-18.md)
-  - [19장. 프로토타임](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-19.md)
+  - [19장. 프로토타입](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-19.md)
+  - [20장. strict mode/ 21장. 빌트인 객체](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-20-21.md)
+  - [22장. this/ 23장. 실행 컨텍스트](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-22-23.md)
