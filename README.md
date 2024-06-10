@@ -33,6 +33,7 @@
 - [반복문(for~in,of)과 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240604.md)
 - [함수 표현식과 콜백 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240605.md)
 - [화살표 함수와 재귀 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240607.md)
+- [Object - 디스트럭처링 할당, 참조에 의한 객체 복사, 가비지 컬렉션](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240610.md)
 
 
 <br>
