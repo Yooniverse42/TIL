@@ -34,6 +34,8 @@
 - [함수 표현식과 콜백 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240605.md)
 - [화살표 함수와 재귀 함수](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240607.md)
 - [Object - 디스트럭처링 할당, 참조에 의한 객체 복사, 가비지 컬렉션](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240610.md)
+- [메서드와 this, 프로토타입, 클래스](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240611.md)
+- [클로저, 옵셔널 체이닝, 원시값의 메서드](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240612.md)
 
 
 <br>
