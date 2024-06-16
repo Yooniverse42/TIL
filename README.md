@@ -48,3 +48,5 @@
   - [19장. 프로토타입](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-19.md)
   - [20장. strict mode/ 21장. 빌트인 객체](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-20-21.md)
   - [22장. this/ 23장. 실행 컨텍스트](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-22-23.md)
+  - [24장. 클로저/ 25장. 클래스/ 26장. ES6 함수의 추가 기능](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-24-26.md)
+  - [27장. 배열](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-27.md)
