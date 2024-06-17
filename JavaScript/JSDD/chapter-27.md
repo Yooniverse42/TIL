@@ -373,3 +373,145 @@ arr.map(x => x.split('')).flat();
 arr.flatMap(x => x.split(''));
 // ['h', 'e', 'l', 'l', 'o', 'w', 'o', 'r', 'l', 'd']
 ```
+
+<br>
+
+## 배열 고차 함수
+
+고차 함수는  함수를 인수로 전달 받거나 함수를 반환하는 함수임. 불변성을 지향하는 함수형 프로그래밍에 기반을 두고 있음.
+
+함수형 프로그래밍이란, 조건문과 반복문을 제거하고 변수 사용을 억제하여 상태 변경을 피하려는 프로그래밍 패러다임이다.
+
+### Array.prototype.sort
+
+원본 배열을 변경하며, 정렬된 배열을 반환. 기본적으로 오름차순으로 요소 정렬
+
+```jsx
+const fruits = ['Banana', 'Orange', 'Apple'];
+
+fruits.sort(); // ['Apple', 'Banana', 'Orange']
+
+// sort 메서드가 원본 배열을 변경해서 바로 reverse 메서드를 사용했을 때 아래처럼 나옴
+fruits.reverse(); // ['Orange', 'Banana', 'Apple']
+```
+
+숫자 사용 시 주의. 유니코드 코드 포인트의 순서를 따르기 때문에 비교 함수 사용해야한다.
+
+```jsx
+[2, 10].sort(); // [10, 2], 유니코드 코드 포인트 순서 따름
+
+// 오름차순 정렬
+const points = [40, 100, 1, 5, 2, 25, 10];
+points.sort((a, b) => a - b); // [1, 2, 5 ,10, 25, 40, 100]
+
+// 최소/최대값 구하기
+console.log(points[0], points[points.length -1])' ; // 1, 100
+
+```
+
+### Array.prototype.forEach
+
+for문은 반복을 위한 변수를 선언해야 하므로 함수형 프로그래밍이 추구하는 바와 맞지 않음.
+
+forEach 메서드는 for문을 대체할 수 있는 고차 함수임.
+
+```jsx
+const numbers = [1, 2, 3];
+const pows = [];
+
+numbers.forEach(item => pows.push(item ** 2)); // [1, 4, 9]
+```
+
+### Array.prototype.map
+
+콜백 함수의 반환값들로 구성된 새로운 배열 반환
+
+```jsx
+const numbers = [1, 4, 9];
+
+const roots = numbers.map(item => Math.sqrt(item)); // [1, 2, 3]
+```
+
+### Array.prototype.filter
+
+콜백 함수의 반환값이 true인 요소로만 구성된 새로운 배열 반환
+
+```jsx
+const numbers = [1, 2, 3, 4, 5];
+
+const odds = numbers.filter(item => item % 2); // [1, 3, 5]
+```
+
+### Array.prototype.reduce
+
+콜백 함수를 호출하여 하나의 결과값을 만들어 반환
+
+```jsx
+const values = [1, [2, 3], 4, [5, 6]];
+
+const flatten = values.reduce((acc, cur) => acc.concat(cur), []);
+// [1, 2, 3, 4, 5, 6]
+```
+
+### Array.prototype.some
+
+콜백 함수의 반환값이 단 한번이라도 참이면 true, 모두 거짓이면 false 반환
+
+```jsx
+[5, 10, 15].some(item => item > 10); // true
+
+[5, 10, 15].some(item => item > 20); // false
+```
+
+### Array.prototype.every
+
+some 메서드와 반대로 콜백 함수의 반환값이 모두 참이면 true, 단 한번이라도 거짓이면 false 반환
+
+```jsx
+[5, 10, 15].every(item => item > 3); // true
+
+[5, 10, 15].every(item => item > 20); // false
+```
+
+### Array.prototype.find
+
+콜백 함수를 호출하여 반환값이 **true인 첫 번째 요소 반환**, 없으면 undefined
+
+```jsx
+const users = [
+	{id: 1, name: 'kim'},
+	{id: 2, name: 'Lee'},
+	{id: 3, name: 'Park'}
+]
+
+users.find(u => u.id === 2); // {id: 2, name: 'Lee'}
+```
+
+### Array.prototype.findIndex
+
+콜백 함수를 호출하여 반환값이 **true인 첫 번째 인덱스 반환**, 없으면 -1
+
+```jsx
+const users = [
+	{id: 1, name: 'kim'},
+	{id: 2, name: 'Lee'},
+	{id: 3, name: 'Park'}
+]
+
+users.findIndex(u => u.id === 2); // 1
+```
+
+### Array.prototype.flatMap
+
+map 메서드를 통해 생성된 새로운 배열을 평탄화함 = map + flat
+
+```jsx
+const arr = ['hello', 'world'];
+
+arr.map(x => x.split('')).flat();
+// ['h', 'e', 'l', 'l', 'o', 'w', 'o', 'r', 'l', 'd']
+
+/* 위와 아래 코드 동일한 값 반환*/
+arr.flatMap(x => x.split(''));
+// ['h', 'e', 'l', 'l', 'o', 'w', 'o', 'r', 'l', 'd']
+```
