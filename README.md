@@ -39,6 +39,7 @@
 - [배열, iterable 객체](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240613.md)
 - [제너레이터,Try..catch, 웹 API](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240617.md)
 - [DOM API](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240618.md)
+- [DOM(스타일과 클래스), 브라우저 이벤트](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240619.md)
 
 
 <br>
