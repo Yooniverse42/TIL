@@ -40,7 +40,7 @@
 - [제너레이터,Try..catch, 웹 API](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240617.md)
 - [DOM API](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240618.md)
 - [DOM(스타일과 클래스), 브라우저 이벤트](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240619.md)
-- [버블링과 캡처링, 이벤트 위임, 브라우저 기본 동작](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240620.md)
+- [버블링과 캡처링, 이벤트 위임](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240620.md)
 
 
 <br>
