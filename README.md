@@ -43,6 +43,7 @@
 - [버블링과 캡처링, 이벤트 위임](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240620.md)
 - [실습(jQuery, Swiper), 계산기와 주접생성기 만들기](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240624.md)
 - [실습(랜덤 다이스), 비동기 통신](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240625.md)
+- [Promise, async와 await, fetch](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240626.md)
 
 
 <br>
