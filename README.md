@@ -4,10 +4,11 @@
 
 <!-- - [240425]() -->
 <!-- - [240426]() -->
+
 - [a 요소 및 git 관련 궁금했던 내용들 정리](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240429.md)
 - [이미지와 동영상부터 폼, 테이블까지](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240430.md)
-<!-- - [240502]() -->
-<!-- - [240503]() -->
+  <!-- - [240502]() -->
+  <!-- - [240503]() -->
 - [단위 및 선택자](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240507.md)
 - [숨긴 콘텐츠와 백그라운드, 애니메이션](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240508.md)
 - [로그인 폼, media query, css-gradient](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240509.md)
@@ -18,8 +19,8 @@
 <!-- - [240517]() -->
 - [Node와 NPM, Sass(변수, 중첩)](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240520.md)
 - [Sass (모듈, 믹스인, 확장, function, if, 연산자)](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240521.md)
-<!-- - [240522]() -->
-<!-- - [240523]() -->
+  <!-- - [240522]() -->
+  <!-- - [240523]() -->
 
 <br>
 
@@ -46,7 +47,6 @@
 - [Promise, async와 await, fetch(get)](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240626.md)
 - [fetch(POST, DELETE), 실습(유저 리스트 카드), localStorage](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/240627.md)
 
-
 <br>
 
 - 모던 자바스크립트 Deep Dive
@@ -58,3 +58,9 @@
   - [22장. this/ 23장. 실행 컨텍스트](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-22-23.md)
   - [24장. 클로저/ 25장. 클래스/ 26장. ES6 함수의 추가 기능](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-24-26.md)
   - [27장. 배열](https://github.com/Yooniverse42/TIL/blob/main/JavaScript/JSDD/chapter-27.md)
+
+<br>
+
+## GSAP
+
+- [GSAP - Basic Tween](https://github.com/Yooniverse42/TIL/blob/main/GSAP/gsap01.md)
