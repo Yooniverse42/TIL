@@ -1,7 +1,7 @@
 # GSAP - Basic Tween
 
 - [1. GSAP을 공부하게 된 이유](#1-GSAP을-공부하게-된-이유)
-- [2. What is GSAP?](#2-What-is-GSAP?)
+- [2. What is GSAP?](#2-What-is-GSAP)
 - [3. GSAP Object](#3-GSAP-Object)
   - [3-1. Tweens](#3-1-Tweens)
   - [3-2. Staggers](#3-2-Staggers)
