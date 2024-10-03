@@ -64,3 +64,4 @@
 ## GSAP
 
 - [GSAP - Basic Tween](https://github.com/Yooniverse42/TIL/blob/main/GSAP/gsap01.md)
+- [tween control, from drawback](https://github.com/Yooniverse42/TIL/blob/main/GSAP/gsap02.md)
