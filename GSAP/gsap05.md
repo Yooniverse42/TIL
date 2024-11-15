@@ -65,7 +65,7 @@ gsap.to(".among", {
 });
 ```
 
-![image.png](keyframes%2013e8c534c7b080f78cd8fbb3859eb99a/image.png)
+![어몽이](https://github.com/Yooniverse42/TIL/blob/main/GSAP/images/gsap05-image.png?raw=true)
 
 <br/>
 
