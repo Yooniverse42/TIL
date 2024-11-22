@@ -15,7 +15,7 @@
 - [반응형 웸(Flex, min, maxm clamp)](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240513.md)
 - [유연한 미디어 사용(figure, grid)](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240514.md)
 - [grid를 이용한 RWD와 transition, translate, mask](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240516.md)
-<!-- - [240517]() -->
+- [SVG Sprite, Container Queries, Details](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240517.md)
 - [Node와 NPM, Sass(변수, 중첩)](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240520.md)
 - [Sass (모듈, 믹스인, 확장, function, if, 연산자)](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240521.md)
 - [TailwindCSS](https://github.com/Yooniverse42/TIL/blob/main/HTML_CSS/240522.md)
