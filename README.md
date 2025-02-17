@@ -69,6 +69,12 @@
 
 <br>
 
+## TypeScript
+
+- [타입스크립트란? Hello TS World!](/TypeScript/TypeScript01.md)
+
+<br>
+
 ## GSAP
 
 - [GSAP - Basic Tween](/GSAP/gsap01.md)
