@@ -71,7 +71,8 @@
 
 ## TypeScript
 
-- [타입스크립트란? Hello TS World!](/TypeScript/TypeScript01.md)
+- [Hello TS World!](/TypeScript/ts01.md)
+- [타입스크립트 기본](/TypeScript/ts02.md)
 
 <br>
 
