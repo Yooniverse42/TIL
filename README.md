@@ -73,6 +73,7 @@
 
 - [Hello TS World!](/TypeScript/ts01.md)
 - [타입스크립트 기본](/TypeScript/ts02.md)
+- [타입스크립트 이해하기](/TypeScript/ts03.md)
 
 <br>
 
