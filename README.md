@@ -74,6 +74,9 @@
 - [Hello TS World!](/TypeScript/ts01.md)
 - [타입스크립트 기본](/TypeScript/ts02.md)
 - [타입스크립트 이해하기](/TypeScript/ts03.md)
+- [함수와 타입](/TypeScript/ts04.md)
+- [인터페이스](/TypeScript/ts05.md)
+- [클래스](/TypeScript/ts06.md)
 
 <br>
 
