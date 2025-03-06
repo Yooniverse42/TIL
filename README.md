@@ -77,6 +77,7 @@
 - [함수와 타입](/TypeScript/ts04.md)
 - [인터페이스](/TypeScript/ts05.md)
 - [클래스](/TypeScript/ts06.md)
+- [제네릭](/TypeScript/ts07.md)
 
 <br>
 
