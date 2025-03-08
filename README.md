@@ -78,6 +78,7 @@
 - [인터페이스](/TypeScript/ts05.md)
 - [클래스](/TypeScript/ts06.md)
 - [제네릭](/TypeScript/ts07.md)
+- [타입 조작하기](/TypeScript/ts08.md)
 
 <br>
 
